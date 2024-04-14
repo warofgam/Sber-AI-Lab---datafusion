@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+jupyter = "*"
+
+[packages]
+matplotlib = ">=3.1.1"
+numpy = ">=1.16.4"
+pandas = "==1.4.4"
+scikit-learn = ">=0.21.2"
+scipy = ">=1.3.0"
+torch = ">=1.1.0"
+tqdm = ">=4.32.2"
+pyspark = ">=2"
+tensorboard = ">=2.1.0"
+lightgbm = ">=2.3.1"
+xgboost = ">=0.90"
+pytorch-lifestream = "*"
+hydra-optuna-sweeper = '>=1.2.0'
+x-transformers = "*"
+duckdb = "*"
+
+[requires]
+python_version = "3.8"

@@ -1,0 +1,6 @@
+predicts
+models
+data
+nn_train/lightning_logs
+embeddings
+.ipynb_checkpoints/
