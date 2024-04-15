@@ -1,5 +1,5 @@
 mkdir -p data
-mkdir -p predicts
+mkdir -p predictions
 mkdir -p embeddings
 mkdir -p models
 cd data/

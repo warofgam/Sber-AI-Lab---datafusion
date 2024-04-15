@@ -5,3 +5,4 @@ nn_train/lightning_logs
 embeddings
 .ipynb_checkpoints/
 2_lvl_train/catboost_info
+predictions
