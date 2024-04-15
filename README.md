@@ -40,12 +40,13 @@ nn_train/coles-train_ensemble.ipynb
 nn_train/wtte-coles_ensemble.ipynb
 nn_train/wtte-rnn.ipynb
 ```
+and all notebooks at 2_lvl_train folder.
+
 To get predicts for metamodel run notebooks:
 ```
 nn_train/supervised-coles.ipynb
 nn_train/supervised-wtte-coles.ipynb
 ```
-and all notebooks at 2_lvl_train folder.
 
 To get final predict run metamodel.ipynb
 
