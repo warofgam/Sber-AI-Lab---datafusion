@@ -22,6 +22,7 @@ pytorch-lifestream = "*"
 hydra-optuna-sweeper = '>=1.2.0'
 x-transformers = "*"
 duckdb = "*"
+catboost = "*"
 
 [requires]
 python_version = "3.8"
