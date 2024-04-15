@@ -2,7 +2,7 @@
 
 # Data Fusion Contest 2024. 2-st place on the Churn Task.
 
-[Link to competition](https://ods.ai/competitions/data-fusion2022-main-challenge)
+[Link to competition](https://ods.ai/competitions/data-fusion2024-churn)
 
 Our solution acheived **2-st** place on the public and private leaderboard.
 
